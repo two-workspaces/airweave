@@ -40,7 +40,7 @@ Both are on the Airweave service's Variables tab. API keys created inside the Ai
 
 - [Airweave documentation](https://docs.airweave.ai/)
 - [Airweave on GitHub](https://github.com/airweave-ai/airweave)
-- [Template source on GitHub](https://github.com/nomideusz/airweave-railway)
+- [Template source on GitHub](https://github.com/two-workspaces/airweave)
 
 ### Implementation Details
 

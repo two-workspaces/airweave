@@ -1,7 +1,7 @@
 {
   "services": {
     "1fff2187-7b6e-4fb5-9312-3daf6252758c": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/airweave-railway/main/icon.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/airweave/main/icon.svg",
       "name": "Airweave",
       "build": {},
       "deploy": {
@@ -11,7 +11,7 @@
         "restartPolicyMaxRetries": 10
       },
       "source": {
-        "repo": "https://github.com/nomideusz/airweave-railway",
+        "repo": "https://github.com/two-workspaces/airweave",
         "rootDirectory": "/gateway"
       },
       "networking": {
@@ -49,7 +49,7 @@
       }
     },
     "e85326c2-d2ee-4327-988f-e29f488a81c8": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/airweave-railway/main/icon.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/airweave/main/icon.svg",
       "name": "Backend",
       "build": {},
       "deploy": {
@@ -244,7 +244,7 @@
       }
     },
     "bde69f30-38e3-4068-a787-1e58e28c64c8": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/airweave-railway/main/icon.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/airweave/main/icon.svg",
       "name": "Worker",
       "build": {},
       "deploy": {
@@ -443,7 +443,7 @@
       }
     },
     "36ad0100-1c6b-4320-8db3-2f7414ab7e93": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/airweave-railway/main/icons/temporal.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/airweave/main/icons/temporal.svg",
       "name": "Temporal",
       "build": {},
       "deploy": {
@@ -513,7 +513,7 @@
       }
     },
     "65068edc-e562-40c8-8740-f934a6658445": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/airweave-railway/main/icons/vespa.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/airweave/main/icons/vespa.svg",
       "name": "Vespa",
       "build": {},
       "deploy": {
@@ -523,7 +523,7 @@
         "restartPolicyMaxRetries": 10
       },
       "source": {
-        "repo": "https://github.com/nomideusz/airweave-railway",
+        "repo": "https://github.com/two-workspaces/airweave",
         "rootDirectory": "/vespa"
       },
       "networking": {
@@ -553,7 +553,7 @@
       }
     },
     "2eee9dd0-73a9-4c5e-b3a8-9f56c7394963": {
-      "icon": "https://raw.githubusercontent.com/nomideusz/airweave-railway/main/icons/svix.svg",
+      "icon": "https://raw.githubusercontent.com/two-workspaces/airweave/main/icons/svix.svg",
       "name": "Svix",
       "build": {},
       "deploy": {
